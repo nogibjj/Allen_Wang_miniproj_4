@@ -39,7 +39,7 @@ This project includes a Python development environment configured with a `.devco
     ```bash
     make install
     ```
-
+  ![Alt text](install.png)
 3. **Format code:**
 
     ```bash
